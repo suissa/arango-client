@@ -15,7 +15,7 @@
     "anders elo <anders@kaerus.com>"
   ],
   "dependencies": {
-    "node.extend":"1.0.0"
+    "node.extend":"1.1.7"
   },
   "devDependencies": {
     "mocha":"1.2.1", 
